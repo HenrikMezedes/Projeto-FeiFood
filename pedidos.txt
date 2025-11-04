@@ -1,0 +1,2 @@
+1|henrik|6,Hot Dog,12.0,Lanche,4.025;4,Refrigerante,6.0,Bebida,4.75;|18.0|04/11/2025 00:57|Entregue|5
+2|lucas|3,Batata Frita,10.0,Acompanhamento,4.1;4,Refrigerante,6.0,Bebida,4.375;|16.0|04/11/2025 01:06|Entregue|4

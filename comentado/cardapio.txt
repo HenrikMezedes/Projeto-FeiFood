@@ -1,0 +1,50 @@
+1|Hamburguer|15.0|Lanche|4.75
+2|Pizza|30.0|Pizza|4.4
+3|Batata Frita|10.0|Acompanhamento|4.1
+4|Refrigerante|6.0|Bebida|4.375
+5|Suco|7.5|Bebida|3.15
+6|Hot Dog|12.0|Lanche|4.025
+7|X-Burguer|18.0|Lanche|4.3
+8|X-Salada|20.0|Lanche|4.7
+9|Pizza Calabresa|35.0|Pizza|4.85
+10|Pizza Frango|32.0|Pizza|4.9
+11|Pizza Portuguesa|38.0|Pizza|4.8
+12|Batata com Bacon|15.0|Acompanhamento|4.5
+13|Batata com Cheddar|16.0|Acompanhamento|4.6
+14|Onion Rings|12.0|Acompanhamento|4.3
+15|Água|4.0|Bebida|4.7
+16|Suco Natural|8.0|Bebida|4.8
+17|Milkshake|14.0|Bebida|4.9
+18|Café|5.0|Bebida|4.4
+19|Sanduíche Natural|22.0|Lanche|4.2
+20|Wrap Frango|25.0|Lanche|4.5
+21|Salada Caesar|28.0|Salada|4.3
+22|Salada Grega|26.0|Salada|4.4
+23|Esfiha Carne|8.0|Lanche|4.2
+24|Esfiha Queijo|7.0|Lanche|4.5
+25|Esfiha Frango|8.0|Lanche|4.3
+26|Coxinha|6.0|Salgado|4.6
+27|Pastel|7.0|Salgado|4.4
+28|Kibe|5.0|Salgado|4.3
+29|Bolo|12.0|Sobremesa|4.7
+30|Pudim|10.0|Sobremesa|3.9
+31|Brownie|14.0|Sobremesa|4.9
+32|Sorvete|16.0|Sobremesa|4.8
+33|Açaí|18.0|Sobremesa|4.9
+34|Torta Doce|15.0|Sobremesa|4.6
+35|Milk Shake|22.0|Sobremesa|4.7
+36|Lasanha|45.0|Prato Principal|4.6
+37|Strogonoff|42.0|Prato Principal|4.7
+38|Frango Grelhado|35.0|Prato Principal|4.5
+39|Peixe Assado|48.0|Prato Principal|4.8
+40|Risoto|52.0|Prato Principal|4.9
+41|Macarrão|28.0|Prato Principal|4.4
+42|Feijoada|40.0|Prato Principal|4.7
+43|Churrasco|55.0|Prato Principal|4.9
+44|Moqueca|60.0|Prato Principal|4.8
+45|Bobó de Camarão|58.0|Prato Principal|4.9
+46|Sopa|25.0|Prato Principal|4.3
+47|Caldo Verde|22.0|Prato Principal|4.4
+48|Cuscuz|18.0|Prato Principal|4.6
+49|Tapioca|12.0|Lanche|4.7
+50|Pão de Queijo|8.0|Lanche|4.7
