@@ -1,4 +1,4 @@
-# 🍔 FEIFood – Sistema de Delivery em Python
+ FEIFood – Sistema de Delivery em Python
 
 O **FEIFood** é um sistema de entrega de comida feito totalmente em Python, utilizando manipulação de arquivos (`.txt`) para armazenar usuários, cardápio e pedidos.  
 O projeto funciona no terminal e simula um aplicativo de delivery, com as funções principais de um sistema real.
@@ -12,7 +12,7 @@ Funcionalidades
 - Login
 - Senhas salvas em arquivo (`usuarios.txt`)
 
-### 🍽️ **Cardápio**
+ **Cardápio**
 - Exibido por categorias
 - Cada item possui:
   - Código  
